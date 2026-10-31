@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Tools
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Generated results (recreate them with: python -m dataviz.pipeline)
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
